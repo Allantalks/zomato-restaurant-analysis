@@ -1,0 +1,16 @@
+cuisines,total_restaurants,avg_rating,avg_cost_for_two,total_votes
+"North Indian",464,3.20,541,45782
+"North Indian, Chinese",380,3.13,689,41844
+"North Indian, Mughlai",289,3.29,819,53683
+Cafe,226,3.38,609,25393
+"Fast Food",210,3.29,313,16933
+Chinese,199,3.19,752,18913
+"North Indian, Mughlai, Chinese",158,3.09,755,20059
+Bakery,117,3.24,362,4143
+"Pizza, Fast Food",111,3.05,657,9900
+"Bakery, Desserts",109,3.43,457,8289
+"Street Food",91,3.41,159,9725
+"Bakery, Fast Food",76,3.29,339,6380
+"South Indian",76,3.29,389,16167
+"Chinese, Fast Food",76,3.04,388,4766
+"Mithai, Street Food",67,3.15,172,2981
